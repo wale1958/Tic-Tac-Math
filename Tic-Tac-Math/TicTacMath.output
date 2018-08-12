@@ -1,0 +1,31 @@
+Enter a number that you want played (1-9) >7
+Enter the position that the number should be placed into (0-8)>6
+The game board looks like this:
+0	0	0
+0	0	0
+7	0	0
+Enter a number that you want played (1-9) >9
+Enter the position that the number should be placed into (0-8)>0
+The game board looks like this:
+9	0	0
+0	0	0
+7	0	0
+Enter a number that you want played (1-9) >6
+Enter the position that the number should be placed into (0-8)>1
+The game board looks like this:
+9	6	0
+0	0	0
+7	0	0
+Enter a number that you want played (1-9) >5
+Enter the position that the number should be placed into (0-8)>4
+The game board looks like this:
+9	6	0
+0	5	0
+7	0	0
+Enter a number that you want played (1-9) >1
+Enter the position that the number should be placed into (0-8)>8
+The game board looks like this:
+9	6	0
+0	5	0
+7	0	1
+Congrats player one! you won diagonally
